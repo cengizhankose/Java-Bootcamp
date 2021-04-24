@@ -3,6 +3,12 @@ package com.cengizhan.kose;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Hello World");
+        int sayi = 10;
+        double ondalik = 10.1;
+        float ondalikKisa = (float) 10.2;
+        char tekHarf = 'a';
+        String kelime = "Bu bir cümledir.";
+        boolean dogruMu = true;
+
     }
 }
