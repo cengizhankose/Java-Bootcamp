@@ -14,6 +14,13 @@ public class Main {
 	        System.out.println(i);
 	        i++;
         }
+	    
+		i=1;
+		//do while loop
+		do{
+			System.out.println(i);
+			i++;
+		}while (i<=10);
 	    System.out.println("Döngü bitti");
     }
 }
